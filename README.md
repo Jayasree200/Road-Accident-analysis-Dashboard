@@ -3,7 +3,7 @@ Developed an interactive Power BI dashboard for analyzing road accident data to 
 time of day, weather conditions, and road type
 
 ## Kpi's Requirement
--Total CY Casualties
+- Total CY Casualties
 -Total CY Accidents
 -CY Fatal Casualties
 -CY Serious Casualties
