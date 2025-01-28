@@ -4,7 +4,7 @@ time of day, weather conditions, and road type
 
 ## Kpi's Requirement
 - Total CY Casualties
--Total CY Accidents
--CY Fatal Casualties
--CY Serious Casualties
--CY Slight Casualties
+- Total CY Accidents
+- CY Fatal Casualties
+- CY Serious Casualties
+- CY Slight Casualties
