@@ -10,3 +10,4 @@ time of day, weather conditions, and road type
 - CY Slight Casualties
 ## Dashboard
 - <a href="https://github.com/Jayasree200/Road-Accident-analysis-Dashboard/blob/main/Road%20Accident%20Analysis%20Dashboard.pbix">Road Accident Analysis</a>
+- <a href="https://github.com/Jayasree200/Road-Accident-analysis-Dashboard/blob/main/Road%20Accident%20Analysis%20Image.png">Road Accident Analysis Image</a>
