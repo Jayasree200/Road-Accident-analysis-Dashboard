@@ -8,3 +8,5 @@ time of day, weather conditions, and road type
 - CY Fatal Casualties
 - CY Serious Casualties
 - CY Slight Casualties
+## Dashboard
+- <a href="https://github.com/Jayasree200/Road-Accident-analysis-Dashboard/blob/main/Road%20Accident%20Analysis%20Dashboard.pbix">Road Accident Analysis</a>
